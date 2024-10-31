@@ -28,9 +28,6 @@ We welcome contributions from the community! Here's how you can participate:
 3. **Contribute Code**: Submit PRs to improve our core platform
 4. **Report Issues**: Found a bug? Let us know!
 
-## 🚀 Getting Started
-
-TBD
 
 ## 📖 Documentation
 
@@ -43,6 +40,8 @@ TBD
 ## 🔒 Security
 
 We take security seriously. If you discover a security vulnerability, please follow our responsible disclosure guidelines.
+
+Link for security disclosures here: TBD
 
 ## 📜 License
 GotCHA is licensed under the MIT License - see the LICENSE file for details.
