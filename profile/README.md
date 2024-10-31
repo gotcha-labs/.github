@@ -46,7 +46,7 @@ Link for security disclosures here: TBD
 ## 📜 License
 GotCHA is licensed under the MIT License - see the LICENSE file for details.
 
-## 🤝 Join Our Community
+## 🌐 Join Our Community
 
 
 
