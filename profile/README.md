@@ -6,17 +6,13 @@ Welcome to GotCHA, where we're reimagining CAPTCHAs as engaging mini-games that 
 
 We create gamified CAPTCHA experiences that:
 - Challenge bots effectively
-- Entertain users
-- Maintain high security standards
-- Support multiple game
-- Provide easy integration
+- Entertain users with multiple games
+- Maintain high security standards and provide easy developer integrations
 
 ## 🌟 Core Features
 
-- **Open Source**: All our core components are open source and available for review
-- **Plugin Architecture**: Create and publish your own CAPTCHA games
+- **Open Source**: All our core components are open source and containcomprehensive API documentation and SDKs
 - **Security First**: Built with modern security practices
-- **Developer Friendly**: Comprehensive API documentation and SDKs
 - **Accessible**: Designed with accessibility in mind
 
 ## 🤝 Get Involved
@@ -26,7 +22,6 @@ We welcome contributions from the community! Here's how you can participate:
 1. **Build Games**: Create new CAPTCHA games using our public interface
 2. **Break Things**: Help us improve by trying to bypass our CAPTCHAs
 3. **Contribute Code**: Submit PRs to improve our core platform
-4. **Report Issues**: Found a bug? Let us know!
 
 
 ## 📖 Documentation
@@ -39,7 +34,7 @@ We welcome contributions from the community! Here's how you can participate:
 
 ## 🔒 Security
 
-We take security seriously. If you discover a security vulnerability, please follow our responsible disclosure guidelines.
+We take security seriously. If you discover a security vulnerability or a bug, please follow our responsible disclosure guidelines.
 
 Link for security disclosures here: TBD
 
