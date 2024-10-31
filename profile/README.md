@@ -26,7 +26,7 @@ We welcome contributions from the community! Here's how you can participate:
 
 ## 📖 Documentation
 
-- [Quick Start Guide](https://www.gotcha.gitbook.io)
+- [Quick Start Guide](https://gotcha.gitbook.io/gotcha-docs)
 
 
 ## 🔒 Security
