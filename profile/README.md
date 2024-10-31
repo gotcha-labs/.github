@@ -26,10 +26,7 @@ We welcome contributions from the community! Here's how you can participate:
 
 ## 📖 Documentation
 
-- [Quick Start Guide](docs/quickstart.md)
-- [Game Development Guide](docs/game-dev.md)
-- [Security Guidelines](docs/game-dev.md)
-- [API Reference](docs/game-dev.md)
+- [Quick Start Guide](https://www.gotcha.gitbook.io)
 
 
 ## 🔒 Security
