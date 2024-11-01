@@ -36,17 +36,13 @@ We take security seriously. If you discover a security vulnerability or a bug, p
 Link for security disclosures here: TBD
 
 ## 📜 License
-GotCHA is licensed under the MIT License - see the LICENSE file for details.
-
+TBD
 ## 🌐 Join Our Community
 
 
 
 - [Twitter](https://www.x.com/GotCHA_Labs)
 - [Substack](https://g0tcha.substack.com/)
-
-[comment]: <> (- [Discord](https://www.x.com/GotCHA_Labs))
-
 
 ---
 
