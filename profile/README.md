@@ -44,7 +44,8 @@ GotCHA is licensed under the MIT License - see the LICENSE file for details.
 
 - [Twitter](https://www.x.com/GotCHA_Labs)
 - [Substack](https://g0tcha.substack.com/)
-- [Discord](https://www.x.com/GotCHA_Labs)
+
+[comment]: <> (- [Discord](https://www.x.com/GotCHA_Labs))
 
 
 ---
