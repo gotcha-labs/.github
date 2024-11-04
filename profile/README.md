@@ -43,7 +43,7 @@ TBD
 
 - [Twitter](https://www.x.com/GotCHA_Labs)
 - [Substack](https://g0tcha.substack.com/)
-
+- [Gitbook](https://www.gotcha.gitbook.io)
 ---
 
 *Making the internet safer, one game at a time.* ✨
