@@ -28,6 +28,8 @@ We welcome contributions from the community! Here's how you can participate:
 
 - [Quick Start Guide](https://gotcha.gitbook.io/gotcha-docs)
 
+- [Deployments: Gotcha Internal Only](https://github.com/gotcha-labs/deployments) 
+
 
 ## 🔒 Security
 
